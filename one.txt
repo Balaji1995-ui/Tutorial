@@ -1,7 +1,1 @@
-one.txt fille has been added in the git file section
-
-hada;ld;lada;dkaldk;alkd;lasd
-sadasdaaaaaaaaaa
-
-
-sfsfsw
+one.txt fille has been added in the git file sectsw
